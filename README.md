@@ -1,6 +1,8 @@
----
-lastSync: Sun Nov 15 2026 11:10:46 GMT-0300 (Argentina Standard Time)
----
+## COMO INSTALAR
+```bash
+git clone https://github.com/RetroBoxed/cobblelinux-LunarCompatibility.git
+```
+Luego seguir el readme
 # Cobble Recode — paquete Linux
 
 Cliente listo para usar en **Linux x64**. Un solo archivo `.so`, sin instalar
