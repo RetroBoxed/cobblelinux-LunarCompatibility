@@ -67,7 +67,7 @@ Deberías ver `bootstrap loaded` y luego el juego arrancando el cliente.
    **Wrapper Command**, escribe:
 
    ```
-   /home/nikox/Desktop/cobble-linux/lunar-attach-wrapper.sh
+   /home/user/path/cobble-linux/lunar-attach-wrapper.sh
    ```
 
 2. Arranca la versión y entra a un mundo.
