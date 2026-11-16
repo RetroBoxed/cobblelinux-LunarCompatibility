@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lunar-widen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lunar-widen.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
